@@ -1,0 +1,9 @@
+name: Beacons
+version: '${project.version}'
+main: timisimys.beacons.Main
+
+commands:
+  settings:
+    description: Настройки игровой арены
+  stopgame:
+    description: Остановка игры

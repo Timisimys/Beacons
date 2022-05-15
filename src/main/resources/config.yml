@@ -1,0 +1,30 @@
+location:
+  world_game: "world"
+  world_lobby: "world"
+  lobby: "none"
+  casts-latis:
+    first: "none"
+    second: "none"
+  chest_poison:
+    first: "none"
+    second: "none"
+  chest_exp:
+    first: "none"
+    second: "none"
+  spawn_red: "none"
+  spawn_blue: "none"
+  world_center: "none"
+  red_beacons:
+    left: "none"
+    right: "none"
+  blue_beacons:
+    left: "none"
+    right: "none"
+limits:
+  max_build_height: 130
+  min_build_height: 60
+game:
+  dev: "true"
+  status: "lock"
+  min_players: 2
+  max_players: 10
